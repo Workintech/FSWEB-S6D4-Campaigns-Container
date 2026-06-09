@@ -1,0 +1,168 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 9,
+  "numPassedTests": 0,
+  "numFailedTests": 9,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1703738305720,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsx'e bootstrap css'i dokümantasyondaki gibi import edilmiş ",
+          "status": "failed",
+          "title": "App.jsx'e bootstrap css'i dokümantasyondaki gibi import edilmiş ",
+          "duration": 11,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 21,
+            "column": 64
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Offer.jsx'e bir functional component tanımlanmış",
+          "status": "failed",
+          "title": "Offer.jsx'e bir functional component tanımlanmış",
+          "duration": 8,
+          "failureMessages": [
+            "Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports."
+          ],
+          "location": {
+            "line": 28439,
+            "column": 17
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Offer.jsx'de sahteVeri import edilmiş",
+          "status": "failed",
+          "title": "Offer.jsx'de sahteVeri import edilmiş",
+          "duration": 2,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 29,
+            "column": 42
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Offer.jsx'de reactstrap Carousel component'i kullanılmış",
+          "status": "failed",
+          "title": "Offer.jsx'de reactstrap Carousel component'i kullanılmış",
+          "duration": 1,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 33,
+            "column": 39
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsx'de Offer component'i kullanılmış",
+          "status": "failed",
+          "title": "App.jsx'de Offer component'i kullanılmış",
+          "duration": 0,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 40,
+            "column": 34
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kampanya 1 Metinleri Doğru görünüyor",
+          "status": "failed",
+          "title": "Kampanya 1 Metinleri Doğru görünüyor",
+          "duration": 7,
+          "failureMessages": [
+            "Unable to find an element with the text: Kış Kampanyası. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<header>\u001b[39m\n      \u001b[36m<h1>\u001b[39m\n        \u001b[0mWiStore Kampanyalar\u001b[0m\n      \u001b[36m</h1>\u001b[39m\n    \u001b[36m</header>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"content-section\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[0mCarousel Buraya Gelecek\u001b[0m\n    \u001b[36m</div>\u001b[39m\n    \u001b[36m<footer>\u001b[39m\n      \u001b[36m<p>\u001b[39m\n        \u001b[0mCopyright @ 2023\u001b[0m\n      \u001b[36m</p>\u001b[39m\n    \u001b[36m</footer>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 37,
+            "column": 19
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kampanya 2 Metinleri Doğru görünüyor",
+          "status": "failed",
+          "title": "Kampanya 2 Metinleri Doğru görünüyor",
+          "duration": 1,
+          "failureMessages": [
+            "Unable to find an element with the text: Yanında Pazatates Kızartması. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<header>\u001b[39m\n      \u001b[36m<h1>\u001b[39m\n        \u001b[0mWiStore Kampanyalar\u001b[0m\n      \u001b[36m</h1>\u001b[39m\n    \u001b[36m</header>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"content-section\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[0mCarousel Buraya Gelecek\u001b[0m\n    \u001b[36m</div>\u001b[39m\n    \u001b[36m<footer>\u001b[39m\n      \u001b[36m<p>\u001b[39m\n        \u001b[0mCopyright @ 2023\u001b[0m\n      \u001b[36m</p>\u001b[39m\n    \u001b[36m</footer>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 37,
+            "column": 19
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kampanya 3 Metinleri Doğru görünüyor",
+          "status": "failed",
+          "title": "Kampanya 3 Metinleri Doğru görünüyor",
+          "duration": 1,
+          "failureMessages": [
+            "Unable to find an element with the text: Gel Al Kampanyası. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<header>\u001b[39m\n      \u001b[36m<h1>\u001b[39m\n        \u001b[0mWiStore Kampanyalar\u001b[0m\n      \u001b[36m</h1>\u001b[39m\n    \u001b[36m</header>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"content-section\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[0mCarousel Buraya Gelecek\u001b[0m\n    \u001b[36m</div>\u001b[39m\n    \u001b[36m<footer>\u001b[39m\n      \u001b[36m<p>\u001b[39m\n        \u001b[0mCopyright @ 2023\u001b[0m\n      \u001b[36m</p>\u001b[39m\n    \u001b[36m</footer>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 37,
+            "column": 19
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Sol-sağ butonları ve aşağıdaki slide sayısı butonları doğru sayıda render ediliyor.",
+          "status": "failed",
+          "title": "Sol-sağ butonları ve aşağıdaki slide sayısı butonları doğru sayıda render ediliyor.",
+          "duration": 15,
+          "failureMessages": [
+            "Unable to find an accessible element with the role \"button\"\n\nHere are the accessible roles:\n\n  banner:\n\n  Name \"\":\n  \u001b[36m<header />\u001b[39m\n\n  --------------------------------------------------\n  heading:\n\n  Name \"WiStore Kampanyalar\":\n  \u001b[36m<h1 />\u001b[39m\n\n  --------------------------------------------------\n  contentinfo:\n\n  Name \"\":\n  \u001b[36m<footer />\u001b[39m\n\n  --------------------------------------------------\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<header>\u001b[39m\n      \u001b[36m<h1>\u001b[39m\n        \u001b[0mWiStore Kampanyalar\u001b[0m\n      \u001b[36m</h1>\u001b[39m\n    \u001b[36m</header>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"content-section\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[0mCarousel Buraya Gelecek\u001b[0m\n    \u001b[36m</div>\u001b[39m\n    \u001b[36m<footer>\u001b[39m\n      \u001b[36m<p>\u001b[39m\n        \u001b[0mCopyright @ 2023\u001b[0m\n      \u001b[36m</p>\u001b[39m\n    \u001b[36m</footer>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 37,
+            "column": 19
+          }
+        }
+      ],
+      "startTime": 1703740066381,
+      "endTime": 1703740066427,
+      "status": "failed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-ba7avr/src/__tests__/index.test.jsx"
+    }
+  ]
+}
