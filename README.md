@@ -11,3 +11,9 @@ Offer.jsx component'inde reactstrap Carousel'ini uygulayalım ve çalışır hal
 - İpucu: Örnek görsele burdan bakabilirsin: https://i.ibb.co/LZmrPLR/s6d4-carousel-design.png
 - İpucu: sahteVeri'yi import ederek kullanabilirsin.
 - İpucu: sahteVeri'deki title ve text propertylerini Carousel'de doğru yerlere eklediğinden emin olabilirsin.
+
+## Önemli Notlar
+
+- Proje dizinindeki `user.json` dosyasını bulun ve `user_id` alanını NextGen proje ekranında görünen kendi `user_id` değeriniz ile güncelleyin.
+- Geliştirme sırasında testleri izlemek için `npm test` komutunu kullanın.
+- Testleri çalıştırıp skoru NextGen'e kaydetmek için `npm run sendresults` komutunu kullanın.
